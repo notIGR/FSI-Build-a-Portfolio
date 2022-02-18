@@ -1,4 +1,6 @@
-body {background-color: orange;
+body {
+    cursor: alias;
+    background-color: orange;
     border-style: ridge;}
 div {
     font-size: medium;
@@ -9,6 +11,7 @@ img {
     width: 25%;
     border-style: dotted;
     border-radius: 50%;
+    border-color: aliceblue;
     float:top;}
 
 .low {
