@@ -1,0 +1,15 @@
+body {background-color: orange;
+    border-style: ridge;}
+div {
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    line-height: 1.5em;}
+img {
+    width: 25%;
+    border-style: dotted;
+    border-radius: 50%;
+    float:top;}
+
+.low {
+    text-align: left;}
